@@ -1,1 +1,0 @@
-CSC316,Data Structures and Algorithims,002,4,sjoshi19,15,MTF,900,1050
